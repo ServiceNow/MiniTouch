@@ -1,6 +1,6 @@
 # MiniTouch
 
-> Benchmark proposed and used in: Touch-based Curiosity for Sparse-Reward Tasks [Paper](https://arxiv.org/pdf/2104.00442.pdf) 
+> Benchmark proposed and used in: Touch-based Curiosity for Sparse-Reward Tasks. [[Paper](https://arxiv.org/pdf/2104.00442.pdf)]
 
 <p align="center">
 	<img src="assets/minitouch.png" width="450"/>

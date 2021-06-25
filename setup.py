@@ -3,7 +3,6 @@ import setuptools
 setuptools.setup(
     name="minitouch",
     version="0.0.1",
-    author_email="cyril.ibrahim@servicenow.com",
     description="MiniTouch benchmarl",
     project_urls={
         "Bug Tracker": "https://github.com/pypa/sampleproject/issues",

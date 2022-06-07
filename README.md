@@ -1,10 +1,19 @@
+*ServiceNow completed its acquisition of Element AI on January 8, 2021. All references to Element AI in the materials that are part of this project should refer to ServiceNow.*
+
 # MiniTouch benchmark
 Benchmark proposed and used in: Touch-based Curiosity for Sparse-Reward Tasks.
 
 <p align="center">
 	<img src="https://github.com/ElementAI/MiniTouch/blob/main/images/minitasks.png" width="350"/>
 </p>
- **MiniTouch**, a manipulation benchmark of simulated tasks is comprised of four manipulation tasks 1)pushing 2)opening 3)picking 4)playing with simple objects. It allows evaluation of models' performance on different manipulation tasks that can leverage cross-modal learning. 
+ MiniTouch, a manipulation benchmark of simulated tasks is comprised of four manipulation tasks:
+
+- Pushing
+- Opening
+- Picking
+- Playing with simple objects
+
+It allows evaluation of models' performance on different manipulation tasks that can leverage cross-modal learning. 
  
 ## How to install
 Clone the repository then:
@@ -27,12 +36,10 @@ for i in range(0, 1000):
 
 ## Available tasks
 
-<ul>
-    <li>Pushing-v0</li>
-    <li>Opening-v0</li>
-    <li>Picking-v0</li>
-    <li>Playing-v0</li>
-</ul>
+- Pushing-v0
+- Opening-v0
+- Picking-v0
+- Playing-v0
 
 Note: If you want to see the GUI of the environment you have to use the
 debug version of the environment. For example use "PushingDebug-v0" instead of 

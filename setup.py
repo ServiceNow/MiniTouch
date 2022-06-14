@@ -3,13 +3,12 @@ import setuptools
 setuptools.setup(
     name="minitouch",
     version="0.0.1",
-    description="MiniTouch benchmarl",
+    description="MiniTouch benchmark",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Source": "https://github.com/ServiceNow/MiniTouch",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
     package_dir={"": "src"},

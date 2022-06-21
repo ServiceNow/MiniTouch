@@ -44,3 +44,5 @@ for i in range(0, 1000):
 Note: If you want to see the GUI of the environment you have to use the
 debug version of the environment. For example use "PushingDebug-v0" instead of 
 "Pushing-v0".
+
+test
